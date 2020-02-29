@@ -1,5 +1,5 @@
-const puppeteer = require("../../node_modules/puppeteer");
-const json2xls = require("../../node_modules/json2xls");
+const puppeteer = require("puppeteer");
+const json2xls = require("json2xls");
 const axios = require("axios");
 const fs = require("fs");
 
