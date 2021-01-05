@@ -9,7 +9,7 @@
   "author": "vithushan jey",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "json2xls": "^0.1.2",
     "puppeteer": "^2.1.1"
   }
